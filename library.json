@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "Id": 2,
+      "companyname": "SOGO",
+      "employee": "Munonye Othniel",
+      "positions": "auditor",
+      "locations": "othniel@gmail.com"
+    },
+    {
+      "Id": 3,
+      "companyname": "DOE",
+      "employee": "abilijin",
+      "positions": "auditor",
+      "locations": "abilijin@gmail.com"
+    },
+    {
+      "Id": 4
+    }
+  ]
+}
